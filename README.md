@@ -1,4 +1,4 @@
-# Exercise-breast-cancer-classification
+# Exercise 1-breast-cancer-classification
 ## Methodology
 In this project, the neural network model is built with TensorFlow Keras functional API framework. Modules used in this project include:
 * numpy
